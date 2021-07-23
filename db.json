@@ -11,6 +11,18 @@
       "day": "thursday",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "some other task to be done ",
+      "day": "the present ",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Remember im a complete bad ass ",
+      "day": "always at 12.00",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
